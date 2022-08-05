@@ -1,0 +1,10 @@
+engine:
+  enable-web-ui: false
+  load-pytest-plugins: false
+  runtime: pytest
+pinned-tests:
+- tests.test_LoiProducer:test_company_context
+- tests.test_LoiProducer:test_candidate_context
+- tests.test_LoiProducer:test_demo
+- tests.test_LoiProducer:test_get_position_of_a_day
+

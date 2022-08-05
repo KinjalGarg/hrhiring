@@ -1,0 +1,11 @@
+/venv/
+/test.ipynb
+/templates/
+/.ipynb_checkpoints/
+/.mypy_cache/
+/.pytest_cache/
+/__pycache__/
+/tests/
+/loi_producer.log
+/output/
+/htmlcov/
